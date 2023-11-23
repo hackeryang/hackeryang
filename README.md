@@ -1,17 +1,12 @@
-<div align="center"><font size=50> <b>Hi there, I'm Yicheng 👋 ʕ·ᴥ·ʔ </b>" <font/></div>  
-<br/>
-<br/>
+## Hi there, I'm Yicheng 👋 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackeryang" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hackeryang/hackeryang/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" />
 </p>
 
 <p align="center">
