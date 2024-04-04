@@ -20,11 +20,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Intellij IDEA-blue">
 </p>
 
-<p align="center">
-  <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F42c4b6ea-f7c5-4fb3-b5cd-16f6ec121255%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1703339116&t=d1ee895bc74072ee03191b0a994595ca" width="400" height="400"/>
-  <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F5fca4990-cc7f-41fb-9a4a-b8396fc326cb%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1703339116&t=4db7db18b95d6fee972773f6bd7d6e1c" width="400" height="400"/>
-</p>
-
 <!--
 **hackeryang/hackeryang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
